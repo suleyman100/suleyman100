@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Süleyman Çeber!
 
-<!--
-**suleyman100/suleyman100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aerospace engineering student at **Erciyes University** with a passion for UAV technologies and autonomous control systems.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Studying **Aerospace Engineering** at Erciyes University
+- Interested in **Unmanned Aerial Vehicles (UAVs)** and **autonomous flight control**
+- Currently learning **MATLAB**, **Webots**, **SolidWorks**, and beginner-level **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies
+- CAD: SolidWorks
+- Simulation: Webots, MATLAB
+- Programming: Python (basic level)
+- Version Control: Git & GitHub
+
+## 🎯 Goals
+- Develop autonomous control systems for UAVs
+- Learn multi-agent coordination and simulation in Webots
+- Build experience in aerospace R&D and defense technologies
+
+## 📫 Contact
+[LinkedIn Profile](https://www.linkedin.com/in/s%C3%BCleyman-%C3%A7eber-086042285)
